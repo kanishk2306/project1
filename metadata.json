@@ -1,0 +1,5 @@
+{
+  "name": "GraphiGen AI",
+  "description": "An AI-powered Graphical Abstract generator using Gemini 2.5 Flash Image. create scientific visualizations, diagrams, and illustrations from text prompts or edit existing sketches.",
+  "requestFramePermissions": []
+}
